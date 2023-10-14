@@ -21,13 +21,13 @@ function App() {
       <NavBar mode={mode} setMode={setMode} sideBar={sideBar} openSideBar={openSideBar}/>
       {sideBar? <SideBar mode={mode} setMode={setMode} />: '' }
       <Routes>
-        <Route index element={<Home theme={mode}/>}/>
-        <Route path='/deadlockchatbox' element={<DeadlockProject theme={mode} />}/>
-        <Route path='/passguard' element={<PassGuardProject theme={mode} />}/>
-        <Route path='/hisabbook' element={<HisabProject theme={mode} />}/>
-        <Route path='/certificate' element={< Certificate mode={mode} />}/>
-        <Route path='/about' element={<About theme={mode} />}/>
-        <Route path='/contact' element={<Contact theme={mode} />}/>
+        <Route path='/mernReactTask6' element={<Home theme={mode}/>}/>
+        <Route path='/mernReactTask6/deadlockchatbox' element={<DeadlockProject theme={mode} />}/>
+        <Route path='/mernReactTask6/passguard' element={<PassGuardProject theme={mode} />}/>
+        <Route path='/mernReactTask6/hisabbook' element={<HisabProject theme={mode} />}/>
+        <Route path='/mernReactTask6/certificate' element={< Certificate mode={mode} />}/>
+        <Route path='/mernReactTask6/about' element={<About theme={mode} />}/>
+        <Route path='/mernReactTask6/contact' element={<Contact theme={mode} />}/>
       </Routes>
     </div>
   );
