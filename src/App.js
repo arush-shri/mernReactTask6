@@ -20,6 +20,7 @@ function App() {
     <div className={`App app_${mode}`}>
       <NavBar mode={mode} setMode={setMode} sideBar={sideBar} openSideBar={openSideBar}/>
       {sideBar? <SideBar mode={mode} setMode={setMode} />: '' }
+      <Home theme={mode}/>
       <Routes>
         <Route path='/' element={<Home theme={mode}/>}/>
         <Route path='/deadlockchatbox' element={<DeadlockProject theme={mode} />}/>
