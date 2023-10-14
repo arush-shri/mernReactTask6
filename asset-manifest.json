@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mernReactTask6/static/css/main.8ba584da.css",
+    "main.js": "/mernReactTask6/static/js/main.8c9abe53.js",
+    "static/js/787.c84b5c88.chunk.js": "/mernReactTask6/static/js/787.c84b5c88.chunk.js",
+    "static/media/myPic.png": "/mernReactTask6/static/media/myPic.a36eb8612f4fbdcd38fa.png",
+    "static/media/bitsCer.png": "/mernReactTask6/static/media/bitsCer.e3e5f27674b659a7e3c6.png",
+    "static/media/deadlockTwo.png": "/mernReactTask6/static/media/deadlockTwo.dc7048d7d751abbdf2de.png",
+    "static/media/deadlockOne.png": "/mernReactTask6/static/media/deadlockOne.4282de03f54048ce0001.png",
+    "static/media/hisabVid.mp4": "/mernReactTask6/static/media/hisabVid.036541449368d34eea6c.mp4",
+    "static/media/androidCer.jpg": "/mernReactTask6/static/media/androidCer.3ca03fce495516801126.jpg",
+    "static/media/bugZCer.jpg": "/mernReactTask6/static/media/bugZCer.d0e61ee8e2addf385d0d.jpg",
+    "static/media/pythonCer.jpg": "/mernReactTask6/static/media/pythonCer.97204d4c1203bb6591d5.jpg",
+    "static/media/endPointCer.jpg": "/mernReactTask6/static/media/endPointCer.0f06b881af4055056401.jpg",
+    "static/media/RORCer.jpg": "/mernReactTask6/static/media/RORCer.aca9fe57c3bfb39f8b57.jpg",
+    "static/media/SQlCer.jpg": "/mernReactTask6/static/media/SQlCer.db3f697ac399e69136cd.jpg",
+    "static/media/lexend_medium.woff": "/mernReactTask6/static/media/lexend_medium.6eff11eb50d8263ec565.woff",
+    "static/media/lexend_light.woff": "/mernReactTask6/static/media/lexend_light.32d15e444faff81c38c3.woff",
+    "static/media/lexend_regular.woff": "/mernReactTask6/static/media/lexend_regular.cff3af44dda12a9e1f7d.woff",
+    "static/media/passguardOne.jpg": "/mernReactTask6/static/media/passguardOne.325251dad0789a8ae5f4.jpg",
+    "static/media/passguardThree.jpg": "/mernReactTask6/static/media/passguardThree.e7902941dd917466bdee.jpg",
+    "static/media/passguardTwo.jpg": "/mernReactTask6/static/media/passguardTwo.f44b836238d4f4245b00.jpg",
+    "index.html": "/mernReactTask6/index.html",
+    "main.8ba584da.css.map": "/mernReactTask6/static/css/main.8ba584da.css.map",
+    "main.8c9abe53.js.map": "/mernReactTask6/static/js/main.8c9abe53.js.map",
+    "787.c84b5c88.chunk.js.map": "/mernReactTask6/static/js/787.c84b5c88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba584da.css",
+    "static/js/main.8c9abe53.js"
+  ]
+}
