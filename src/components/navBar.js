@@ -25,7 +25,7 @@ export default function NavBar({mode, setMode, sideBar, openSideBar}){
         <div>
             <div className='d-flex justify-content-center' style={{ fontFamily: 'lexendMed' }}>
                 <nav className={`navbar navbar-expand navbar_${mode} ${navSize}`}>
-                    <Link className={`${atagSize} nav-link active`} to="/mernReactTask6">
+                    <Link className={`${atagSize} nav-link active`} to="/">
                         Arush Shrivastava
                     </Link>
                     <div className='d-xl-none container-fluid justify-content-end align-items-center'>
@@ -80,7 +80,7 @@ export function SideBar({mode, setMode}) {
       <nav id="sidebarMenu" className={`collapse d-block sidebar collapse sideBarColor${mode}`}>
         <div className="position-sticky">
             <div className="list-group list-group-flush mx-3 ">
-                <Link to='/mernReactTask6' className="list-group-item list-group-item-action py-3 ripple" style={{fontSize:'large'}}>
+                <Link to='/' className="list-group-item list-group-item-action py-3 ripple" style={{fontSize:'large'}}>
                 <i className="fas fa-tachometer-alt fa-fw"></i><span>Arush Shrivastava</span>
                 </Link>
                 <div className='list-group-item list-group-item-action py-3 ripple'>

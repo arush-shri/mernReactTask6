@@ -21,7 +21,7 @@ function App() {
       <NavBar mode={mode} setMode={setMode} sideBar={sideBar} openSideBar={openSideBar}/>
       {sideBar? <SideBar mode={mode} setMode={setMode} />: '' }
       <Routes>
-        <Route path='/mernReactTask6' element={<Home theme={mode}/>}/>
+        <Route index element={<Home theme={mode}/>}/>
         <Route path='/deadlockchatbox' element={<DeadlockProject theme={mode} />}/>
         <Route path='/passguard' element={<PassGuardProject theme={mode} />}/>
         <Route path='/hisabbook' element={<HisabProject theme={mode} />}/>
